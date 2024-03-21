@@ -1,6 +1,6 @@
 ### Hi there 👋, Enes Sungu
 #### Web Developer
-![Web Developer](https://miro.medium.com/v2/resize:fit:966/1*OA9c8CovXaqjwbzi_qYKsA.jpeg)
+![Web Developer](https://i.ytimg.com/vi/5Vxx5UkjV4s/sddefault.jpg)
 
 I am a web developer with 1 year of experience. I have successfully completed a full-stack course at HackYourFuture. Both remote and in-office roles are okay for me. I always want to take responsibility and deliver faster than expected. I am comfortable with React js, Next js and Node js.
 
