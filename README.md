@@ -1,7 +1,7 @@
 ### Hi there 👋, Enes Sungu
 #### Full Stack Web Developer
 
-I am a web developer with 1 year of experience. I have successfully completed a full-stack course at HackYourFuture. Both remote and in-office roles are okay for me. I always want to take responsibility and deliver faster than expected. I am comfortable with React js, Next js and Node js.
+As someone who loves working with others, I enjoy helping out and chatting with people from all walks of life. Web development is my passion, and I'm always looking for ways to get better at it, whether it's by getting feedback or just practicing. Outside of work, I like hanging out with friends and playing football, which helps me learn how to work well in a team. Plus, I'm really curious about how the backend of websites works. It's like solving a puzzle for me, and I love figuring it out!
 
 - 🔭 I’m currently working on HackYourFuture
 - 💬 Ask me about **React, Node**
